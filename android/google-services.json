@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382167178515",
+    "project_id": "image-to-text-converter-da642",
+    "storage_bucket": "image-to-text-converter-da642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382167178515:android:7c97b2462e80eb57088ee6",
+        "android_client_info": {
+          "package_name": "com.example.mesht_ocr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCouzQYBD212ZzOK9zhomMoiQ1v0LPYvyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
